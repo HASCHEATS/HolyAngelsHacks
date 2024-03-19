@@ -1,7 +1,8 @@
 # HolyAngelsHack
 This Is a Site Made for VIPs That has all the cheats you will ever need!
+Status: 💚 = Working 🔴 = Not Working
 
-# GimKit
+# 💚GimKit💚
 ![alt text](examples/GimKit.png)
 1. Copy the script from [here](/build/bundle.bookmarklet.txt).
 2. Create a new bookmark in your browser.
@@ -39,7 +40,7 @@ Hitting backslash (\\) at any point will hide the overlay. Hitting it again will
 - **Cosmetic Picker**: Allows you to pick any skin or trail to use. This will only be visible to you; no one else will see it. To equip a cosmetic you need to know it's internal id. This is usually listed on the [Gimkit Wiki](https://gimkit.fandom.com/wiki/Cosmetics).
 - **Custom Theme**: Allows you to create a custom theme, or use any built-in theme. This works in all gamemodes, even ones that don't normally allow you to change your theme.
 
-# Blooket
+# 🔴Blooket🔴
 ![alt text](examples/Blooket.png)
 # Features
 ### Monster Brawl
