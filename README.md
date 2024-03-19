@@ -159,16 +159,9 @@ Hitting backslash (\\) at any point will hide the overlay. Hitting it again will
 * [Set Health](cheats/tower-defense-2/setHealth.js)
 * [Set Round](cheats/tower-defense-2/setRound.js)
 ### [Pirate's Voyage](cheats/voyage/)
-
 * [Max Levels](cheats/voyage/maxLevels.js)
 * [Set Doubloons](cheats/voyage/setDoubloons.js)
 * [Start Heist](cheats/voyage/startHeist.js)
 * [Swap Doubloons](cheats/voyage/swapDoubloons.js)
 * [Take Doubloons](cheats/voyage/takeDoubloons.js)
-### [Santa's Workshop](cheats/workshop)
-* [Remove Distractions](cheats/workshop/removeDistractions.js)
-* [Send Distraction](cheats/workshop/sendDistraction.js)
-* [Set Toys](cheats/workshop/setToys.js)
-* [Set Toys Per Question](cheats/workshop/setToysPerQ.js)
-* [Swap Toys](cheats/workshop/swapToys.js)
 
