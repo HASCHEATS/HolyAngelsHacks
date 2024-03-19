@@ -44,63 +44,63 @@ Hitting backslash (\\) at any point will hide the overlay. Hitting it again will
 # Features
 ### Monster Brawl
  * Double Enemy XP
- Half Enemy Speed
- Instant Kill
- Invincibility
- Kill Enemies
- Magnet
- Max Current Abilities
- Next Level
- Remove Obstacles
- Reset Health
-### [Cafe](cheats/cafe)
-* [Max Items](cheats/cafe/maxItems.js)
-* [Remove Customers](cheats/cafe/removeCustomers.js)
-* [Reset Abilities](cheats/cafe/resetAbilities.js)
-* [Set Cash](cheats/cafe/setCash.js)
-* [Stock Food](cheats/cafe/stockFood.js)
-### [Crypto Hack](cheats/crypto)
-* [Always Triple](cheats/crypto/alwaysTriple.js)
-* [Auto Guess](cheats/crypto/autoGuess.js)
-* [Choice ESP](cheats/crypto/choiceESP.js)
-* [Password ESP](cheats/crypto/passwordESP.js)
-* [Remove Hack](cheats/crypto/removeHack.js)
-* [Set Crypto](cheats/crypto/setCrypto.js)
-* [Set Password](cheats/crypto/setPassword.js)
-* [Steal Players Crypto](cheats/crypto/stealPlayersCrypto.js)
-### [Deceptive Dinos](cheats/dinos)
-* [Auto Choose](cheats/dinos/autoChoose.js)
-* [Rock ESP](cheats/dinos/rockESP.js)
-* [Set Fossils](cheats/dinos/setFossils.js)
-* [Set Multiplier](cheats/dinos/setMultiplier.js)
-* [Stop Cheating](cheats/dinos/stopCheating.js)
-### [Tower of Doom](cheats/doom)
-* [Fill Deck](cheats/doom/fillDeck.js)
-* [Max Cards](cheats/doom/maxCards.js)
-* [Max Health](cheats/doom/maxHealth.js)
-* [Max Stats](cheats/doom/maxStats.js)
-* [Min Enemy](cheats/doom/minEnemy.js)
-* [Set Coins](cheats/doom/setCoins.js)
-### [Factory](cheats/factory)
-* [Choose Blook](cheats/factory/chooseBlook.js)
-* [Free Upgrades](cheats/factory/freeUpgrades.js)
-* [Max Blooks](cheats/factory/maxBlooks.js)
-* [Remove Glitches](cheats/factory/removeGlitches.js)
-* [Send Glitch](cheats/factory/sendGlitch.js)
-* [Set All Mega Bot](cheats/factory/setAllMegaBot.js)
-* [Set Cash](cheats/factory/setCash.js)
-### [Fishing Frenzy](cheats/fishing)
-* [Frenzy](cheats/fishing/frenzy.js)
-* [Remove Distraction](cheats/fishing/removeDistraction.js)
-* [Send Distraction](cheats/fishing/sendDistraction.js)
-* [Set Lure](cheats/fishing/setLure.js)
-* [Set Weight](cheats/fishing/setWeight.js)
-### [Flappy Blook](cheats/flappy)
-* [Set Score](cheats/flappy/setScore.js)
-* [Toggle Ghost](cheats/flappy/toggleGhost.js)
-### [Global](cheats/global)
-* [Anti Flood Game](cheats/global/antiFloodGame.js)
-* [Auto Answer](cheats/global/autoAnswer.js)
+ * Half Enemy Speed
+ * Instant Kill
+ * Invincibility
+ * Kill Enemies
+ * Magnet
+ * Max Current Abilities
+ * Next Level
+ * Remove Obstacles
+ * Reset Health
+### Cafe
+* Max Items
+* Remove Customers
+* Reset Abilities
+* Set Cash
+* Stock Food
+### Crypto Hack
+* Always Triple
+* Auto Guess
+* Choice ESP
+* Password ESP
+* Remove Hack
+* Set Crypto
+* Set Password
+* Steal Players Crypto
+### Deceptive Dinos
+* Auto Choose
+* Rock ESP
+* Set Fossils
+* Set Multiplier
+* Stop Cheating
+### Tower of Doom
+* Fill Deck
+* Max Cards
+* Max Health
+* Max Stats
+* Min Enemy
+* Set Coins
+### Factory
+* Choose Blook
+* Free Upgrades
+* Max Blooks
+* Remove Glitches
+* Send Glitch
+* Set All Mega Bot
+* Set Cash
+### Fishing Frenzy
+* Frenzy
+* Remove Distraction
+* Send Distraction
+* Set Lure
+* Set Weight
+### Flappy Blook
+* Set Score
+* Toggle Ghost
+### Global
+* Anti Flood Game
+* Auto Answer
 * [Auto Sell Dupes On Open](cheats/global/autoSellDupesOnOpen.js)
 * [Change Blook Ingame](cheats/global/changeBlookIngame.js)
 * [Every Answer Correct](cheats/global/everyAnswerCorrect.js)
