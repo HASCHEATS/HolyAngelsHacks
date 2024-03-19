@@ -41,8 +41,9 @@ Hitting backslash (\\) at any point will hide the overlay. Hitting it again will
 
 # Blooket
 ![alt text](examples/Blooket.png)
-# Monster Brawl
- Double Enemy XP
+# Features
+### Monster Brawl
+ * Double Enemy XP
  Half Enemy Speed
  Instant Kill
  Invincibility
